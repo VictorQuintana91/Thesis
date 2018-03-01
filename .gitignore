@@ -1,5 +1,5 @@
 #User Specified
-data/interim/normalised_keyed_reviews_100_rows_sample.csv
+data/interim/normalised_keyed_reviews_100k_sample.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
