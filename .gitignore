@@ -1,3 +1,6 @@
+#User Specified
+data/interim/normalised_keyed_reviews_100_rows_sample.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
