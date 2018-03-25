@@ -16,7 +16,5 @@ if __name__ == "__main__":
                 max_length=3))
 
     for result in results:
-        print(results)
-        break;
         if len(list(result)[0]) > 2:
             print(list(list(result)[0]))
