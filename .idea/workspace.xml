@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="64b03fc6-eac7-483c-a4e0-dad7f7bb8e5e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/notebooks/005_filtering_nouns.ipynb" afterPath="$PROJECT_DIR$/notebooks/005_filtering_nouns.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/features/build_features.py" afterPath="$PROJECT_DIR$/src/features/build_features.py" />
     </list>
-    <list id="bb88e68e-3e63-419f-b2e7-208c0431bcaf" name="Complete pos-tagging and clean-up notebooks for presentation" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list id="bb88e68e-3e63-419f-b2e7-208c0431bcaf" name="Complete pos-tagging and clean-up notebooks for presentation" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
